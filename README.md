@@ -67,6 +67,8 @@ O sistema foi modelado com as seguintes classes principais:
 ### 🔹 Protótipos
 Os protótipos foram criados no [Figma].  
 
+🔗 [Link para as telas](https://www.figma.com/community/file/1547045577220805781)
+
 As jornadas contempladas:
 - Cadastro de Pessoa Física  
 - Cadastro de Pessoa Jurídica  
