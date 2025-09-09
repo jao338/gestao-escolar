@@ -12,8 +12,6 @@ O projeto segue as orientações de UML (Unified Modeling Language) para auxilia
 ### 🔹 Diagrama de Caso de Uso
 O sistema contempla o cadastro e gerenciamento de diferentes tipos de pessoas vinculadas à universidade.  
 
-![Diagrama de Caso de Uso](1%20-%20CASO%20DE%20USO.jpg)
-
 ### 🔹 Cenários dos Casos de Uso
 
 #### 1) Cadastro de Pessoa Física
@@ -56,9 +54,6 @@ O sistema contempla o cadastro e gerenciamento de diferentes tipos de pessoas vi
 ### 🔹 Diagrama de Classes
 O sistema foi modelado com as seguintes classes principais:  
 
-![Diagrama de Classes](2%20-%20CLASSES.jpg)
-
-- **Pessoa**: classe base com atributos comuns (nome, telefone, e-mail).  
 - **Pessoa Física**: herda de Pessoa, possui CPF e método de validação.  
 - **Pessoa Jurídica**: herda de Pessoa, possui CNPJ e razão social.  
 - **Aluno**: herda de Pessoa Física, possui matrícula e curso.  
